@@ -26,7 +26,7 @@ I am a technology enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :zap: In my spare times, I play videogames. I'm also learning how to make my own games!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-pires-lourenco/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-pires-lourenco/)
 
 ---
 
