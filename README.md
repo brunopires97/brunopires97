@@ -1,23 +1,25 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ja0j1H7ZYQ6ywItA6i/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ja0j1H7ZYQ6ywItA6i/giphy.gif" width="700"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/bruno-pires-lourenco/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+    <a href="https://www.linkedin.com/in/bruno-pires-lourenco/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
   <img src="https://komarev.com/ghpvc/?username=brunopires97&style=flat-square&color=blue" alt=""/>
-   <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+    <h1>
+      Hey there, adventurer!
+      <img src="https://media.giphy.com/media/xT9Igoe79R16unU7cc/giphy.gif" width="50px" height="50px"/>
+    </h1>
 </div>
 
 ---
 <div align="center">
   <img src="https://media.giphy.com/media/l52F0Fgtcr84IZ8yJc/giphy.gif" width="600" height="300"/>
 </div>
+
 ### :man_technologist: About Me :
-I am a technology enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. My favorite programming languages are C++ and Python.
+I am a technology enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. My favorite programming languages are C++ and Python. 
+
 - :telescope: I’m working as a NOC Analyst and studying Electrical Engineering.
 
 - :seedling: Expanging my programming knowledges and also studying cloud computing.
