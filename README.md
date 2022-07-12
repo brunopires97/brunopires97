@@ -22,7 +22,7 @@ I am a technology enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :telescope: I’m working as a NOC Analyst and studying Electrical Engineering.
 
-- :seedling: Expanging my programming knowledges and also studying cloud computing.
+- :seedling: Expanding my programming knowledges and also studying cloud computing.
 
 - :zap: In my spare times, I play videogames. I'm also learning how to make my own games!
 
